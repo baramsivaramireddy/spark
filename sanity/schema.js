@@ -1,3 +1,6 @@
+
+import event from './event';
+import page from './page'
 export const schema = {
-  types: [],
+  types: [event,page],
 }
